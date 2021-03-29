@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViggoLagerstedtEkholm
-- 👀 I’m interested in Java, C#, SQL, Android, React, .NET development.
+- 👀 I’m interested in Java, C#, SQL, Android, React, Java, Spring Boot, .NET development.
 - 🌱 I’m currently learning Android development.
 - 💞️ I’m looking to collaborate on anything related to code.
 
