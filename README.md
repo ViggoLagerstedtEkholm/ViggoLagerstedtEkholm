@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @ViggoLagerstedtEkholm
-- 👀 I’m interested in Java, C#, SQL, Android, React, React-Native, Java, Spring Boot, .NET development, PHP.
-- 🌱 I’m currently learning React and .NET Web API development.
-- 💞️ I’m looking to collaborate on anything related to code.
+👋 Hi, I’m @ViggoLagerstedtEkholm
+
+👀 Here are some of the technologies that I have worked with:
+Java, C#, SQL, Android, React, React-Native, Java, Spring Boot, .NET development, PHP, TypeScript, Redux.
+
+🌱 I’m currently learning React and .NET Web API development.
+
+Feel free to contact me!
+
 
 
 <!---
