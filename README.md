@@ -3,7 +3,7 @@
 👀 Here are some of the technologies that I have worked with:
 Java, C#, SQL, Android, React, React-Native, Java, Spring Boot, .NET development, PHP, TypeScript, Redux.
 
-🌱 I’m currently learning React and .NET Web API development.
+🌱 I’m currently learning React with TypeScript and .NET Web API development.
 
 Feel free to contact me!
 
