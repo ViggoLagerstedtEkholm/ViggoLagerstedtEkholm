@@ -20,7 +20,7 @@
 Feel free to contact me!
 
 Codewars - https://www.codewars.com/users/xyzzzzz
-
+Kattis - https://open.kattis.com/users/viggolagerstedtekholm
 
 <!---
 ViggoLagerstedtEkholm/ViggoLagerstedtEkholm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
