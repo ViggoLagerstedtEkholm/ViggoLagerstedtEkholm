@@ -15,7 +15,7 @@
 -Redux
 -Bootstrap
 
-🌱 I’m currently learning React with TypeScript and .NET Web API development.
+🌱 I’m currently working as a system developer @ Folksam
 
 Feel free to contact me!
 
