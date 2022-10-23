@@ -15,7 +15,7 @@
 -Redux
 -Bootstrap
 
-🌱 I’m currently working as a system developer @ Folksam via Nexer Tech Talent and are working on some personal projects 👀
+🌱 I’m currently working as a system developer @ Folksam via Nexer Tech Talent and on some personal projects 👀
 
 Feel free to contact me!
 
